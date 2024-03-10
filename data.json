@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "imageUrl": "https://raw.githubusercontent.com/waqar306/livewallpaper/main/thumbnail1.png",
+            "videoUrl": "https://github.com/waqar306/livewallpaper/raw/main/1.mp4"
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/waqar306/livewallpaper/main/thumbnail2.png",
+            "videoUrl": "https://github.com/waqar306/livewallpaper/raw/main/2.mp4"
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/waqar306/livewallpaper/main/thumbnail3.png",
+            "videoUrl": "https://github.com/waqar306/livewallpaper/raw/main/3.mp4"
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/waqar306/livewallpaper/main/thumbnail4.png",
+            "videoUrl": "https://github.com/waqar306/livewallpaper/raw/main/4.mp4"
+        },
+        {
+            "imageUrl": "https://raw.githubusercontent.com/waqar306/livewallpaper/main/thumbnail5.png",
+            "videoUrl": "https://github.com/waqar306/livewallpaper/raw/main/5.mp4"
+        }
+    ]
+}
